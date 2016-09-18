@@ -9,6 +9,8 @@ public class HelloWord {
 		System.out.println("aaaaaa");
 		System.out.println("11111");
 		System.out.println("bbbbbb");
+		System.out.println("222222");
+		
 	}
 
 }
